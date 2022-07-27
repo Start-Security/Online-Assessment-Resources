@@ -1,4 +1,4 @@
-# Free Online Security Assessment Resources
+# Free Security Assessment Resources
 Free online resources to assess your infrastructure
 
 ## Cloud
