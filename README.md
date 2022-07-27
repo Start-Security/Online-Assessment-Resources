@@ -1,5 +1,7 @@
 # Free Security Assessment Resources
-Free online resources to assess your infrastructure or home networks, we catalog those that do not require you to install it as a program.
+We are compiling a list of free online resources that can help you scan your infrastrucutre, the list is not definitive and is here as a reference for those that may need it.
+The tools listed here have a free version and do not need an install file, and many of them do not require registration, those that do are labeled as such.
+
 
 ## AntiVirus
 - ESET (Scanner)- https://www.eset.com/int/home/online-scanner/
@@ -19,7 +21,7 @@ Free online resources to assess your infrastructure or home networks, we catalog
 - SaftetyDetectives (scanner) - https://www.safetydetectives.com/vulnerability-tool/
 ### Web
 - ImmuniWeb - https://www.immuniweb.com/websec/
-- Intruder (Registration Required) - https://www.intruder.io/
+- Intruder (**Registration Required**) - https://www.intruder.io/
 - Mozilla Observatory - https://observatory.mozilla.org/
 - HostedScan https://hostedscan.com/
 - Qualys SSL Labs (SSL Configuration) - https://www.ssllabs.com/ssltest/
@@ -29,7 +31,7 @@ Free online resources to assess your infrastructure or home networks, we catalog
 - Sucuri Site Check - https://sitecheck.sucuri.net/
 - TermsHub (Cookie scanner) - https://termshub.io/cookie-scanner
 - Pentest Tools - https://pentest-tools.com/website-vulnerability-scanning/website-scanner
-- Probely (Registration required) - https://probely.com/
+- Probely (**Registration required**) - https://probely.com/
 
 
 ## Wordpress
