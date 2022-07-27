@@ -3,13 +3,9 @@ Free online resources to assess your infrastructure or home networks, we catalog
 
 ## AntiVirus
 ESET (Scanner)- https://www.eset.com/int/home/online-scanner/
-
 F-Secure (Scanner)- https://www.f-secure.com/en/home/free-tools/online-scanner
-
 MalwareBytes (Scanner)- https://www.malwarebytes.com/solutions/virus-scanner
-
 TrendMicro (Scanner)- https://www.trendmicro.com/en_us/forHome/products/housecall.html
-
 VirusTotal (file upload)- https://www.virustotal.com/gui/home/upload
 
 
