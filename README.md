@@ -30,3 +30,8 @@ Free online resources to assess your infrastructure or home networks, we catalog
 - TermsHub (Cookie scanner) - https://termshub.io/cookie-scanner
 - Pentest Tools - https://pentest-tools.com/website-vulnerability-scanning/website-scanner
 - Probely (Registration required) - https://probely.com/
+
+
+## Wordpress
+
+- WPSec Wordpress Scanner - https://wpsec.com/
