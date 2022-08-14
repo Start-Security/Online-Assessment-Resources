@@ -13,7 +13,7 @@ The tools listed here have a free version and do not need an install file, and m
 
 ## Cloud
 - AWS public cloud footprint - https://recon.cloud/
-- Find CloudFlare DNS entries and subdomains - https://search.censys.io/
+- Find Cname and other DNS entries and subdomains - https://search.censys.io/
 
 ## Vulnerabilities
 - Vulnerabilities is broken down into 2 sections, those are the device and the website vulnerabilities.
