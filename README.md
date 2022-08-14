@@ -13,7 +13,7 @@ The tools listed here have a free version and do not need an install file, and m
 
 ## Cloud
 - AWS public cloud footprint - https://recon.cloud/
-- Find Cname and other DNS entries and subdomains - https://search.censys.io/
+
 
 ## Vulnerabilities
 - Vulnerabilities is broken down into 2 sections, those are the device and the website vulnerabilities.
@@ -21,6 +21,7 @@ The tools listed here have a free version and do not need an install file, and m
 ### Device
 - SaftetyDetectives (scanner) - https://www.safetydetectives.com/vulnerability-tool/
 ### Web
+- Find Cname and other DNS entries and subdomains - https://search.censys.io/
 - ImmuniWeb - https://www.immuniweb.com/websec/
 - Intruder (**Registration Required**) - https://www.intruder.io/
 - Mozilla Observatory - https://observatory.mozilla.org/
