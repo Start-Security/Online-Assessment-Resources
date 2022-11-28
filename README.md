@@ -39,7 +39,7 @@ The tools listed here have a free version and do not need an install file, and m
 
 ## Threat Modeling
 
-ThreatAgile - https://github.com/threagile 
+- ThreatAgile - https://github.com/threagile 
 ## Wordpress
 
 - WPSec Wordpress Scanner - https://wpsec.com/
