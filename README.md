@@ -14,6 +14,7 @@ The tools listed here have a free version and do not need an install file, and m
 ## Cloud
 - AWS public cloud footprint - https://recon.cloud/
 - Azure/AWS/Digital ocean exposed bukets - https://grayhatwarfare.com/
+- Trivy - docker image scanning - https://trivy.dev/
 
 
 ## Vulnerabilities
