@@ -23,7 +23,9 @@ The tools listed here have a free version and do not need an install file, and m
 ### Device
 - SaftetyDetectives (scanner) - https://www.safetydetectives.com/vulnerability-tool/
 ### Web
+- Find issued certificates from Lets Encrypt - https://crt.sh/
 - Find Cname and other DNS entries and subdomains - https://search.censys.io/
+- Domain research tool - https://dnsdumpster.com/
 - ImmuniWeb - https://www.immuniweb.com/websec/
 - Intruder (**Registration Required**) - https://www.intruder.io/
 - Mozilla Observatory - https://observatory.mozilla.org/
